@@ -1,0 +1,88 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    width: 60%;
+    margin: 0 auto;
+}
+.logo {
+    width: 350px;
+}
+nav {
+    background-color: aqua;
+    padding: 10px;
+}
+table {
+    width: 100%;
+    padding-top: 15px;
+}
+.socials {
+    width: 50px;
+    padding-top: 5px;
+}
+table p {
+    padding-top: 15px;
+}
+.ccake {
+    width: 380px;
+}
+.images {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.infoDiv {
+    padding-left: 50px;
+    font-size: 20px;
+    text-align: justify;
+}
+input {
+    width: 250px;
+    height: 25px;
+}
+li {
+    margin-left: 40px;
+}
+.carrot {
+    width: 100%;
+}
+dt {
+    font-weight: bold;
+}
+dd {
+    padding-left: 50px;
+}
+aside {
+    font-size: 20px;
+}
+button {
+    font-size: 20px;
+    padding: 5px 20px;
+}
+footer {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 150px;
+    font-size: 20px;
+}
+footer input {
+    width: 15px;
+    height: 15px;
+}
+.emailInput {
+    width: 250px;
+    height: 25px;
+}
+.footerpartone {
+    padding-left: 30px;
+}
+.footerpartthree {
+    padding-right: 30px;
+}
